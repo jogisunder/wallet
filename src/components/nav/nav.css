@@ -1,0 +1,49 @@
+.navbar{
+    background-color: #1082d3;
+}
+
+.sidenav {
+    height: 90vh;
+    background-color: #1082d3;
+    margin: 0px;
+    text-decoration-color: black;
+}
+ .navLinks{
+   color:black;
+ }
+.navLinks:hover{
+  background-color: orange;
+  color:white;
+}
+.navLinks:active{
+  background-color: orange;
+  color:white;
+}
+
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 20%;
+  background-color: skyblue;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a:active {
+  background-color: orange;
+  color: white;
+} */
+
+/* li a:hover:not(.active) {
+  background-color: skyblue;
+  color: white;
+} */

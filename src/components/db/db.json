@@ -1,0 +1,73 @@
+{
+  "personal_wallet": [
+    {
+      "userId": "1",
+      "name": "Liam",
+      "phone": "123456789",
+      "amount": "300"
+    },
+    {
+      "userId": "2",
+      "name": "Noah",
+      "phone": "123456789",
+      "amount": "1000"
+    },
+    {
+      "userId": "3",
+      "name": "Oliver",
+      "phone": "123456789",
+      "amount": "500"
+    },
+    {
+      "userId": "4",
+      "name": "James",
+      "phone": "123456789",
+      "amount": "600"
+    },
+    {
+      "userId": "5",
+      "name": "Lucas",
+      "phone": "123456789",
+      "amount": "6000"
+    }
+  ],
+  "transactions": [
+    {
+      "userId": "1",
+      "name": "Liam",
+      "date":"12 Jan, 5 pm",
+      "amount": "+300",
+      "balance": "300"
+    },
+    { 
+      "userId": "2",
+      "name": "Noah",
+      "date":"14 Jan, 6 pm",
+      "amount": "-1000",
+      "balance": "100"
+    },
+    { 
+      "userId": "3", 
+      "name": "Oliver",
+      "date":"12 Jan, 7 pm",
+      "amount": "-500",
+      "balance": "500"
+    },
+   {
+      
+    "userId": "4",
+      "name": "Lucas",
+      "date":"18 Jan, 5 pm",
+      "amount": "+600",
+      "balance": "600"
+    },
+    { 
+      "userId": "5", 
+      "name": "James",
+      "date":"13 Jan, 4 pm",
+      "amount": "+6000",
+      "balance": "3000"
+    }
+  ]
+
+}

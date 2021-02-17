@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+.ContentBox {
+  display: flex;
+  height: 100%;
+}
